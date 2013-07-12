@@ -1,0 +1,4 @@
+NSCoreDataHelpers
+=================
+
+CoreData helpers
